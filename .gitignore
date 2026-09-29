@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+
+# Env & secrets
+.env
+*.env.local
+backend/data/
+secret.key
+
+# SQLite
+*.db
+*.sqlite3
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
